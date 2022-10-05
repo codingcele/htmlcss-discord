@@ -51,9 +51,10 @@ a {
 .first {
     display: flex;
     justify-content: center;
-    min-height: 560px;
+    height: 560px;
     background-image: url(img/jumbo.png);
     background-size: cover;
+    background-position: center;
     color: white;
 }
 
